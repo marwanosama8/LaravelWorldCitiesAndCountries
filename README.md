@@ -24,6 +24,7 @@ All cities and countries data for Laravel (include Middle East)
 3- then run 
 
 ```
+php artisan migrate
 php artisan db:seed --class=CitySeeder
 php artisan db:seed --class=CountrySeeder
 ```
