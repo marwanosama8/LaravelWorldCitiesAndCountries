@@ -13,7 +13,7 @@ All cities and countries data for Laravel (include Middle East)
 - English Name :uk:	
 - Arabic Name :egypt:	
 - French Name :fr:	
-- Country Code
+- City Code
 
 **Installation**:
 
