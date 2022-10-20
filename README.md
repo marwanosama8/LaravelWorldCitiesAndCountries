@@ -1,18 +1,18 @@
-# laravel_world_cities_countries
-All cities and countries data for Laravel (include Middle East)
+# laravel_world_cities_countries :earth_africa:	
+All cities and countries data for Laravel (include Middle East) 
 
 **Country**:
-- English Name
-- Arabic Name
-- French Name
+- English Name :uk:	
+- Arabic Name :egypt:	
+- French Name :fr:	
 - Country Code
-- Country Dialing Code (Phone Number Code)
+- Country Dialing Code (Phone Number Code) :telephone_receiver:
 
 **City**: 
 - Country ID
-- English Name
-- Arabic Name
-- French Name
+- English Name :uk:	
+- Arabic Name :egypt:	
+- French Name :fr:	
 - Country Code
 
 **Installation**:
@@ -27,6 +27,6 @@ All cities and countries data for Laravel (include Middle East)
 php artisan db:seed --class=CitySeeder
 php artisan db:seed --class=CountrySeeder
 ```
-if you find this helpfull don't forget to star the repositery
+if you find this helpfull don't forget to star the repositery :star:
 
 
