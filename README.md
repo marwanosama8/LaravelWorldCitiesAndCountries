@@ -1,4 +1,4 @@
-# laravel_world_cities_countries :earth_africa:	
+# Laravel World Cities And Countries :earth_africa:	
 All cities and countries data for Laravel (include Middle East) 
 
 **Country**:
